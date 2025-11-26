@@ -191,7 +191,7 @@
       <div class="avatar-wrap" aria-hidden="false">
         <div class="avatar">
           <!-- đổi avatar.jpg bằng link ảnh của Ynu -->
-          <img src="https://github.com/user-attachments/assets/947fd7ec-764c-492a-97d8-6954881088cc" alt="Ảnh đại diện của Ynu">
+          <img src="https://github.com/user-attachments/assets/947fd7ec-764c-492a-97d8-6954881088cc" alt="Ảnh đại diện của Yến Như">
         </div>
       </div>
 
