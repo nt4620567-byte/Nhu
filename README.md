@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Profile của Ynu</title>
+  <title>Trần Lê Yến Như</title>
 
   <!-- Tùy chọn: load font từ Google (bỏ nếu không muốn) -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -37,7 +37,7 @@
       position:relative;
       min-height:100vh;
       width:100%;
-      background-image: url(' https://github.com/user-attachments/assets/a8c444ba-1b81-4974-a8f7-8a5d2b3acfd7'); /* <-- đổi file này */
+      background-image: url('https://github.com/user-attachments/assets/0246aeb9-a3e5-470a-a6e7-d5f78e6853b1'); /* <-- đổi file này */
       background-size: cover;
       background-position: center;
       background-attachment: fixed; /* optional */
@@ -191,7 +191,7 @@
       <div class="avatar-wrap" aria-hidden="false">
         <div class="avatar">
           <!-- đổi avatar.jpg bằng link ảnh của Nu -->
-          <img src="https://github.com/user-attachments/assets/3c6646dc-7d64-49af-abd6-cf57eb4f5ca6" alt="Ảnh đại diện của Ynu">
+          <img src="https://github.com/user-attachments/assets/947fd7ec-764c-492a-97d8-6954881088cc" alt="Ảnh đại diện của Ynu">
         </div>
       </div>
 
