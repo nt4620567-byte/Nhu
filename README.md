@@ -214,7 +214,7 @@
         <div class="meta" aria-hidden="false">
           <span class="pill">📍 Bến Tre</span>
           <span class="pill">💻 iphone / HTML & CSS</span>
-          <span class="pill">🎨 Thiết kế UI</span>
+          <span class="pill">🎨 Thiết kế AI</span>
         </div>
 
         <div class="actions">
