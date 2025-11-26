@@ -190,7 +190,7 @@
       <!-- Avatar -->
       <div class="avatar-wrap" aria-hidden="false">
         <div class="avatar">
-          <!-- đổi avatar.jpg bằng link ảnh của Nu -->
+          <!-- đổi avatar.jpg bằng link ảnh của Ynu -->
           <img src="https://github.com/user-attachments/assets/947fd7ec-764c-492a-97d8-6954881088cc" alt="Ảnh đại diện của Ynu">
         </div>
       </div>
@@ -214,7 +214,7 @@
         <div class="meta" aria-hidden="false">
           <span class="pill">📍 Bến Tre</span>
           <span class="pill">💻 iphone / HTML & CSS</span>
-          <span class="pill">🎨 Thiết kế UI</span>
+          <span class="pill">🎨 Thiết kế AI</span>
         </div>
 
         <div class="actions">
