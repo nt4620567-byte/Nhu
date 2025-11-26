@@ -68,7 +68,7 @@
       backdrop-filter: blur(8px) saturate(120%);
       background: linear-gradient(180deg, rgba(255,255,255,0.06), rgba(255,255,255,0.03));
       border: 1px solid var(--glass-border);
-      box-shadow: 0 10px 30px rgba(2,6,23,0.6);
+      box-shadow: 0 10px 30px rgba(2,6,23,0.6); 
       z-index:1;
     }
 
@@ -191,7 +191,7 @@
       <div class="avatar-wrap" aria-hidden="false">
         <div class="avatar">
           <!-- đổi avatar.jpg bằng link ảnh của Nu -->
-          <img src="https://github.com/user-attachments/assets/3f94214b-4786-44d3-813d-562520a5d9ec" alt="Ảnh đại diện của Ynu">
+          <img src="https://github.com/user-attachments/assets/3c6646dc-7d64-49af-abd6-cf57eb4f5ca6" alt="Ảnh đại diện của Ynu">
         </div>
       </div>
 
