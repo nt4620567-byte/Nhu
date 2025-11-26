@@ -37,7 +37,7 @@
       position:relative;
       min-height:100vh;
       width:100%;
-      background-image: url('https://github.com/user-attachments/assets/0246aeb9-a3e5-470a-a6e7-d5f78e6853b1'); /* <-- đổi file này */
+      background-image: url(''); /* <-- đổi file này */
       background-size: cover;
       background-position: center;
       background-attachment: fixed; /* optional */
@@ -191,7 +191,7 @@
       <div class="avatar-wrap" aria-hidden="false">
         <div class="avatar">
           <!-- đổi avatar.jpg bằng link ảnh của Ynu -->
-          <img src="https://github.com/user-attachments/assets/947fd7ec-764c-492a-97d8-6954881088cc" alt="Ảnh đại diện của Yến Như">
+          <img src="https://github.com/user-attachments/assets/b9c5067a-b653-45f2-90c9-2fd818c0ef06" alt="Ảnh đại diện của Yến Như">
         </div>
       </div>
 
