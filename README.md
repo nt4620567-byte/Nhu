@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Profile của Nu</title>
+  <title>Profile của Ynu</title>
 
   <!-- Tùy chọn: load font từ Google (bỏ nếu không muốn) -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
@@ -37,7 +37,7 @@
       position:relative;
       min-height:100vh;
       width:100%;
-      background-image: url('background.jpg'); /* <-- đổi file này */
+      background-image: url('https://github.com/user-attachments/assets/a8c444ba-1b81-4974-a8f7-8a5d2b3acfd7'); /* <-- đổi file này */
       background-size: cover;
       background-position: center;
       background-attachment: fixed; /* optional */
@@ -191,7 +191,7 @@
       <div class="avatar-wrap" aria-hidden="false">
         <div class="avatar">
           <!-- đổi avatar.jpg bằng link ảnh của Nu -->
-          <img src="avatar.jpg" alt="Ảnh đại diện của Nu">
+          <img src="https://github.com/user-attachments/assets/3f94214b-4786-44d3-813d-562520a5d9ec" alt="Ảnh đại diện của Ynu">
         </div>
       </div>
 
@@ -203,8 +203,11 @@
         </div>
 
         <p class="bio">
-          Mô tả ngắn: Nu là người thích học lập trình, làm web và hay giúp bạn bè. Đây là mô tả ngắn gọn để khách
-          truy cập biết Nu làm gì. Nu có thể thay đoạn này bằng vài dòng ấn tượng.
+          Mô tả ngắn: 
+- 🌱 Không hoàn hảo nhưng luôn thật lòng.  
+- 💡 Ngoài lạnh lùng, trong soft soft.  
+- 🎯 Đi nhẹ - nói khẽ - cười duyên.  
+- 😎 Sống đơn giản cho đời thanh thản.
         </p>
 
         <div class="meta" aria-hidden="false">
