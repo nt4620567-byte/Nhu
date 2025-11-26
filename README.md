@@ -37,7 +37,7 @@
       position:relative;
       min-height:100vh;
       width:100%;
-      background-image: url(''); /* <-- đổi file này */
+      background-image: url('https://github.com/user-attachments/assets/274ca0e5-2791-4c3a-b236-23b2c147bd72'); /* <-- đổi file này */
       background-size: cover;
       background-position: center;
       background-attachment: fixed; /* optional */
