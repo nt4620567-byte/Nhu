@@ -37,7 +37,7 @@
       position:relative;
       min-height:100vh;
       width:100%;
-      background-image: url('https://github.com/user-attachments/assets/a8c444ba-1b81-4974-a8f7-8a5d2b3acfd7'); /* <-- đổi file này */
+      background-image: url('https://github.com/user-attachments/assets/3c6646dc-7d64-49af-abd6-cf57eb4f5ca6'); /* <-- đổi file này */
       background-size: cover;
       background-position: center;
       background-attachment: fixed; /* optional */
@@ -191,14 +191,14 @@
       <div class="avatar-wrap" aria-hidden="false">
         <div class="avatar">
           <!-- đổi avatar.jpg bằng link ảnh của Nu -->
-          <img src="https://github.com/user-attachments/assets/3c6646dc-7d64-49af-abd6-cf57eb4f5ca6" alt="Ảnh đại diện của Ynu">
+          <img src="https://github.com/user-attachments/assets/a8c444ba-1b81-4974-a8f7-8a5d2b3acfd7" alt="Ảnh đại diện của Ynu">
         </div>
       </div>
 
       <!-- Nội dung chính -->
       <div class="profile-body">
         <div class="name-row">
-          <h1 id="name" class="name">Nu — Tên đầy đủ</h1>
+          <h1 id="name" class="name">Trần Lê Yến Như</h1>
           <p class="role">Học sinh • Yêu tin học • Thích thiết kế</p>
         </div>
 
