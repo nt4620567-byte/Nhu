@@ -185,7 +185,7 @@
   </style>
 </head>
 <body>
-  <main class="hero-bg" role="main" aria-label="Background profile của Nu">
+  <main class="hero-bg" role="main" aria-label="Background profile của Ynu">
     <article class="profile-card" aria-labelledby="name">
       <!-- Avatar -->
       <div class="avatar-wrap" aria-hidden="false">
@@ -227,7 +227,7 @@
 
   <!-- (Optional) Chân trang nhỏ -->
   <footer style="position:fixed;right:12px;bottom:12px;color:rgba(255,255,255,0.6);font-size:12px;">
-    © <span id="year"></span> Nu
+    © <span id="year"></span> Ynu
   </footer>
 
   <script>
