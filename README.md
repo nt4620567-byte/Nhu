@@ -204,6 +204,7 @@
 
         <p class="bio">
           Mô tả ngắn: 
+  
 - 🌱 Không hoàn hảo nhưng luôn thật lòng.  
 - 💡 Ngoài lạnh lùng, trong soft soft.  
 - 🎯 Đi nhẹ - nói khẽ - cười duyên.  
